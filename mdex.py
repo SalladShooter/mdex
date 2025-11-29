@@ -163,7 +163,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.file and args.file.endswith('.mdex'):
-        convert_ml_to_html(args.file)
+        convert_mdex_to_html(args.file)
     elif args.file:
         print("❌ File must end with .mdex")
         sys.exit(1)

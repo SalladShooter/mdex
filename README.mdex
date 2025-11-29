@@ -2,7 +2,12 @@
 
 Looks just like Markdown, but with more capabilities with classes and ids. {.highlight#about-id}
 
-Just run `setup.sh` to get started.
+Just run 
+```
+chmod +x setup.sh
+/setup.sh
+``` 
+to get started.
 
 > Really cool!
 > - SalladShooter (creater of ML)
