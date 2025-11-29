@@ -169,5 +169,5 @@ if __name__ == "__main__":
         print("❌ File must end with .mdex")
         sys.exit(1)
     else:
-        print("Usage: ./mdex.py index.mdex")
+        print("Usage: ./mdex.py <filename>.mdex")
         sys.exit(1)
