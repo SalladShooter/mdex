@@ -1,0 +1,12 @@
+# Basic Example of ML {.highlight#main-title}
+
+Looks just like Markdown, but with more capabilities with classes and ids {.highlight#about-id}
+
+> Really cool!
+> - SalladShooter (creater of ML)
+
+Reasons why ML is cool:
+
+1. Just like Markdown {#item1}
+2. Added classes and ids {#item2}
+3. Executable and runnable as HTML {#item3}
