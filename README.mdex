@@ -1,6 +1,8 @@
 # Basic Example of ML {.highlight#main-title}
 
-Looks just like Markdown, but with more capabilities with classes and ids {.highlight#about-id}
+Looks just like Markdown, but with more capabilities with classes and ids. {.highlight#about-id}
+
+Just run `setup.sh` to get started.
 
 > Really cool!
 > - SalladShooter (creater of ML)
