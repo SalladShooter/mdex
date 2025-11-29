@@ -3,6 +3,7 @@ import re
 import os
 import sys
 import argparse
+import html
 
 def parse_attributes(text):
     attr_match = re.search(r'(.+?)\s*(\{[^}]+\})\s*$', text.strip())
