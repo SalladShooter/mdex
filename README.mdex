@@ -10,10 +10,10 @@ chmod +x setup.sh
 to get started.
 
 > Really cool!
-> - SalladShooter (creater of ML)
+> - SalladShooter (creater of MDEX)
 
-Reasons why ML is cool:
+Reasons why MDEX is cool:
 
 - Just like Markdown {#item1}
 - Added classes and ids {#item2}
-- Executable and runnable as HTML {#item3}
+- Outputs as HTML and can easily run on the web {#item3}
